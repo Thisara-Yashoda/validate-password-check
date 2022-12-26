@@ -1,0 +1,19 @@
+{
+  "name": "validate-password-check",
+  "version": "1.0.0",
+  "description": "password validation check",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thisara-Yashoda/validate-password-check.git"
+  },
+  "author": "thisarahetz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thisara-Yashoda/validate-password-check/issues"
+  },
+  "homepage": "https://github.com/Thisara-Yashoda/validate-password-check#readme"
+}
